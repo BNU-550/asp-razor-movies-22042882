@@ -8,7 +8,7 @@ namespace razor_movies.Models
 {
     public enum Genres
     {
-        Horror, Comedy, Drama, Romance, Action, SciFi, Thriller
+        Horror, Comedy, Drama, Romance, Action, SciFi, Thriller, Animation, Family
     }
 
     public class movie
